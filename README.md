@@ -16,7 +16,7 @@ The paper has been accepted at IROS 2024. The pdf is available on arXiv [here](t
 
 ### IROS Video Submission (Click to start the video)
 
-[![image](figures/snapshot.png)](https://youtu.be/NNgbNRxm5V4)
+[![image](figures/snapshot.jpg)](https://youtu.be/NNgbNRxm5V4)
 
 Cite this work:
 ```
